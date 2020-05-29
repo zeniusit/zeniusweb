@@ -1874,17 +1874,19 @@ body {
 .cid-s0licNvwhN {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #efefef;
 }
 .cid-s0licNvwhN .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #232323;
+  color: #232323;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-s0licNvwhN .section-text {
   padding: 2rem 0;
+  color: #232323;
+  text-align: center;
 }
 .cid-s0licNvwhN .inner-container {
   margin: 0 auto;
