@@ -42,7 +42,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": false,
     "mbrsiteDomain": "nyvrqkqjkx",
     "usedWebp": false,
