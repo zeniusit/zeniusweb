@@ -42,7 +42,16 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": false,
+    "mbrsiteDomain": "nyvrqkqjkx",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
